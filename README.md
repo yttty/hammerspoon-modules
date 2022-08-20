@@ -15,5 +15,5 @@
 
 - Install [Hammerspoon](https://www.hammerspoon.org/)
 - `rm -r ~/.hammerspoon`
-- `git clone https://github.com/yttty/hammerspoon.git ~/.hammerspoon`
+- `git clone https://github.com/yttty/hammerspoon-modules.git ~/.hammerspoon`
 - Restart Hammerspoon
